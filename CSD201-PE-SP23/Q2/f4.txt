@@ -1,0 +1,2 @@
+(HP_pavilion,6.5,7) (Dell,8.5,5) (Sony,9.5,17) (Macbook,7.5,6) 
+(HP_pavilion,6.5,7) (Dell,8.5,5) (Sony,9.5,17) (Macbook,7.5,6) 

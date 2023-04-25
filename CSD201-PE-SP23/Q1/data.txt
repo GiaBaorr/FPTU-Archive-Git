@@ -1,0 +1,17 @@
+Line 0 - The next line is line 1 (f1)
+ H      A       B       C       D       E       F       G
+ 10.0   9.8     5.3     6.2     2.5     700.9   40.4    300.2
+ 22     8       3       5       4       9       -7      2
+Line 4 - The next line is line 5 (f2)
+ H      A       B       C       D       E       F       G
+ 10.0   29.8     35.3     6.2     52.5     700.9   46.4    300.2
+ 22     8       3       5       4       9       -7      2
+Line 8 - The next line is line 9 (f3)
+ H      A       B       C       D       E       F       G
+ 10.0   29.0     35.0     6.5     52.5     700.9   46.5    300.2
+ 22     8       3       5       4       9       -7      2   
+Line 12 - The next line is line 13 (f4)
+ C      F       J       K
+ 1.0    14.0    11.0    7.0
+ 2      6       12      9
+END

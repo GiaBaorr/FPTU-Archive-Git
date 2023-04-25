@@ -1,0 +1,2 @@
+(Acer,9.5,3) (HP_pavilion,6.5,7) (Dell,18.5,5) (Asus,5.5,4) (Sony,9.5,-7) (Macbook,7.5,6) (Lenovo,8.5,9) 
+(Acer,9.5,3) (HP_pavilion,6.5,7) (Dell,18.5,5) (Asus,5.5,4) (SonyVaio,20.5,7) (Sony,9.5,-7) (Macbook,7.5,6) (Lenovo,8.5,9) 
